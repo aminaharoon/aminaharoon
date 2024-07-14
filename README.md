@@ -1,8 +1,9 @@
-<img align="center" src="highres_gif2.gif" alt="highres_gif2" width="1000" height="200"/>
+
 <h1 align="center">Hi 👋, I'm Amina Haroon</h1>
 <h3 align="center">I am a PhD scholar at IIIT Delhi</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/aminaharoon/aminaharoon/blob/main/girl-with-computer-online-education-home-girl-with-laptop-freelancing_207606-165.jpg">
+
 - 🔭 I’m currently working on **A Material-to-System Approach in Probabilistic Spin Logic**
 
 - 👯 I’m looking to collaborate on **Probabilistic Computing**
@@ -19,4 +20,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  </p>
