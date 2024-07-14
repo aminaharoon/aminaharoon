@@ -1,4 +1,4 @@
-
+<img align="center" src="highres_gif2.gif" alt="highres_gif2" width="1000" height="200"/>
 <h1 align="center">Hi 👋, I'm Amina Haroon</h1>
 <h3 align="center">I am a PhD scholar at IIIT Delhi</h3>
 
