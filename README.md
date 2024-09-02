@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Academics in general...**
 
-- 📫 How to reach me **aminaharoon26@gmail.com**
+- 📫 How to reach me **aminaharoon37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
