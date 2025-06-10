@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/aminaharoon/aminaharoon/blob/main/girl-with-computer-online-education-home-girl-with-laptop-freelancing_207606-165.jpg">
 
-- 🔭 I’m currently working on **A Material-to-System Approach in Probabilistic Spin Logic**
+- 🔭 I’m currently working on **A Devices-to-Circuits-to-System Approach in Probabilistic Computing**
 
 - 👯 I’m looking to collaborate on **Probabilistic Computing**
 
