@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amina Haroon</h1>
-<h3 align="center">I am a PhD scholar at IIIT Delhi</h3>
+<h3 align="center">PhD from IIIT Delhi</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/aminaharoon/aminaharoon/blob/main/girl-with-computer-online-education-home-girl-with-laptop-freelancing_207606-165.jpg">
 
